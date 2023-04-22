@@ -1,0 +1,173 @@
+/* Start */
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#container {
+position: absolute;
+left: 30%;
+top: 20%;
+width: 500px;
+height: 500px;
+border: 1px solid purple;
+}
+
+/* Start Quiz Button Design & Hover */
+#startTime {
+    background-color: purple;
+    border: 1px solid;
+    border-radius: 5px;
+    margin-left: 33%;
+    padding: 15px 32px;
+    font-size: 20px;
+    color: white;
+    cursor: pointer;
+}
+
+#startTime:hover {
+    color: purple;
+    background: white;
+    border-color: purple;
+}
+
+/* Questions */
+#quest {
+    margin: 20px;
+}
+
+/* Time Display */
+#time {
+    float: right;
+}
+
+/* Back Button Design & Hover */
+#back {
+    background-color: purple;
+    border: 1px solid;
+    border-radius: 5px;
+    position: relative;
+    padding: 3px;
+    font-size: 20px;
+    color: white;
+    top: 30%;
+    left: 55%;
+    width: auto;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+#back:hover {
+    color: purple;
+    background: white;
+    border-color: purple;
+}
+
+/* Clear Button Design & Hover */
+#clear {
+    background-color: purple;
+    border: 1px solid;
+    border-radius: 5px;
+    position: relative;
+    padding: 3px;
+    font-size: 20px;
+    color: white;
+    top: 30%;
+    right: 5%;
+    text-align: center;
+    cursor: pointer;
+}
+
+#clear:hover {
+    color: purple;
+    background: white;
+    border-color: purple;
+}
+
+/* Initials */
+textarea {
+    width: 90%;
+    margin: 20px;
+}
+
+#submit {
+    background-color: purple;
+    margin-left: 33%;
+    padding: 15px 32px;
+    font-size: 20px;
+    color: white;
+}
+
+label {
+    margin-right: 10px;
+}
+
+input {
+    margin-bottom: 20px;
+    width: 50%;
+    border: 1px solid lightgray;
+}
+
+h1 {
+    text-align: center;
+}
+
+li {
+    background-color: purple;
+    margin-top: 10px;
+    padding: 5px 15px;
+    width: 80%;
+    font-size: 18px;
+    color: white;
+}
+
+/* Div Creation */
+#createDiv {
+    margin-top: 20px;
+    border-top: 1px solid lightgray;
+}
+
+/* Media queries */
+@media screen and (max-width: 786px) {
+/* Resized to fit 786px  */
+body {
+    max-width: 786px;
+}
+/* Resized to fit 786px  */
+#container {
+    position: absolute;
+    left: 20%;
+}
+
+a {
+    margin-left: 20%;
+}
+    #back {
+        
+        position: relative;
+        left: 55%;
+    }
+
+    #clear {
+        
+        position: relative;
+        right: 5%;
+        
+    }
+}
+    
+/* Max-width: 640px */
+@media screen and (max-width: 640px) {
+    body {
+        min-width: 640px;
+    }
+/* Resized to fit 640px  */
+#container {
+    position: absolute;
+    left: 10%;
+}
+    a {
+        margin-left: 10%;
+    }
+
+    
+}
