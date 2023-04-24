@@ -1,20 +1,20 @@
 # code-quiz
 
 ##HTML
-First HTML file created to create divs for css styling and javascript quiz.
-
-##HTML Hightscores
-File created to take user to highscores page. 
+HTML file created to creating divs to utilize as containers for css styling and javascript quiz.
 
 ##CSS 
-Used to style the content on the page, and the way it displays. 
+Styled the content on the page, and the way it displays using CSS and simple techniques to move block to middle of page.
 
 ##JavaScript 
 I created a few javaScript questions to prompt for the user when interacting with page allowing them to participate in taking the quiz. 
+
+##HTML Hightscores
+File created to take user to highscores page and track scores. 
 
 ##JavaScript Highscores
 Created another javaScript file using JSON to store data to local storage where users who take test will be able to view scores and or clear them. 
 
 
 
-![code-quiz Demo](assets/code-quiz/gif.gif)
+
