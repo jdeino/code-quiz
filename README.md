@@ -15,3 +15,7 @@ I created a few javaScript questions to prompt for the user when interacting wit
 ##JavaScript Highscores
 Created another javaScript file using JSON to store data to local storage where users who take test will be able to view scores and or clear them. 
 
+
+
+https://user-images.githubusercontent.com/109103013/233890369-ebe03b95-45c8-405d-9c99-830f584e0ff5.mp4
+
