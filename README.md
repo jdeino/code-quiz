@@ -16,5 +16,7 @@ File created to take user to highscores page and track scores.
 Created another javaScript file using JSON to store data to local storage where users who take test will be able to view scores and or clear them. 
 
 
+##Multiple Choice
+![mulitple-choice](https://user-images.githubusercontent.com/109103013/234139944-d2329ff7-8ac2-4edd-925c-d30b13e19083.jpg) width="300 height="300"
 
 
