@@ -17,4 +17,4 @@ Created another javaScript file using JSON to store data to local storage where 
 
 
 
-![code-quiz Demo](assets/demo/gif.gif)
+![code-quiz Demo](assets/code-quiz/gif.gif)
