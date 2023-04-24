@@ -17,5 +17,4 @@ Created another javaScript file using JSON to store data to local storage where 
 
 
 
-https://user-images.githubusercontent.com/109103013/233890369-ebe03b95-45c8-405d-9c99-830f584e0ff5.mp4
-
+![code-quiz Demo](assets/demo/gif.gif)
