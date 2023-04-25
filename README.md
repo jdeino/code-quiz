@@ -19,3 +19,15 @@ Created another javaScript file using JSON to store data to local storage where 
 ##Multiple Choice
 
 <img width="400" src="https://user-images.githubusercontent.com/109103013/234139944-d2329ff7-8ac2-4edd-925c-d30b13e19083.jpg">
+
+##Correct Answer
+<img width="400" src="https://user-images.githubusercontent.com/109103013/234142870-265b8568-b546-4beb-bdb8-ef9b5d6329cb.jpeg">
+
+##Wrong Answer
+<img width="400" src="https://user-images.githubusercontent.com/109103013/234142946-00fc1d2f-9799-4216-a4b9-cb03362e287c.jpeg">
+
+##Submit
+<img width="400" src="https://user-images.githubusercontent.com/109103013/234142978-37717e85-904e-4af7-94f9-03bb9f19a2cf.jpeg">
+
+
+
