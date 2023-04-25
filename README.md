@@ -18,4 +18,4 @@ Created another javaScript file using JSON to store data to local storage where 
 
 ##Multiple Choice
 
-<img width="400" height="300" src="https://user-images.githubusercontent.com/109103013/234139944-d2329ff7-8ac2-4edd-925c-d30b13e19083.jpg">
+<img width="400" src="https://user-images.githubusercontent.com/109103013/234139944-d2329ff7-8ac2-4edd-925c-d30b13e19083.jpg">
