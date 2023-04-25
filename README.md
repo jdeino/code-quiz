@@ -46,3 +46,6 @@ Once you enter your initials it'll re-direct you to the highscores page showing 
 
 <img width="400" src="https://user-images.githubusercontent.com/109103013/234143229-0788dc46-7235-4ec1-af60-6dab1e23962d.jpeg">
 Once taking the test again, and re-entering your initials or someone elses, it'll log their score as well. You can select clear highscores for it to erase them, or simply click go back for it to take you to the beginning of the quiz. 
+
+
+Github live page - https://jdeino.github.io/code-quiz/
