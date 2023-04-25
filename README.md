@@ -17,6 +17,6 @@ Created another javaScript file using JSON to store data to local storage where 
 
 
 ##Multiple Choice
-![mulitple-choice](https://user-images.githubusercontent.com/109103013/234139944-d2329ff7-8ac2-4edd-925c-d30b13e19083 width="300 height="300".jpg)
+<img src= "https://user-images.githubusercontent.com/109103013/234139944-d2329ff7-8ac2-4edd-925c-d30b13e19083.jpg" width="300" height="300">
 
 
