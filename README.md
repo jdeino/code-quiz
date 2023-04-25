@@ -48,4 +48,4 @@ Once you enter your initials it'll re-direct you to the highscores page showing 
 Once taking the test again, and re-entering your initials or someone elses, it'll log their score as well. You can select clear highscores for it to erase them, or simply click go back for it to take you to the beginning of the quiz. 
 
 
-Github live page - https://jdeino.github.io/code-quiz/
+Github live page - https://jdeino.github.io/code-quiz/index.html
